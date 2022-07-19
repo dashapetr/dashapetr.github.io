@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data tells a lot!
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
-    <p>Poland</p>
+  address: false
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
