@@ -15,13 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Darya Petrashka. I work as a Data Scientist at itransition. 
+Hello! My name is Darya Petrashka. I work as a Data Scientist. 
 
 I am passionate about data and its usage for problem-solving. 
 As for now, I am working on a pharmaceutical project. 
 I'm also into eco projects. 
 
-My area of interest includes classical ML and NLP, as well as working with AWS services. 
+My area of interest includes classical ML and NLP, as well as working with AWS services. I was selected as AWS Community Builder in August 2022. 
 
 I never stop learning by taking part in online schools, courses, and workshops. 
 Besides, I like to challenge myself in hackathons.
